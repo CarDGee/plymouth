@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=cheshire-cat
+Description=cheshire cat splash animation
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/cheshire-cat
+ScriptFile=/usr/share/plymouth/themes/cheshire-cat/animated-boot.script

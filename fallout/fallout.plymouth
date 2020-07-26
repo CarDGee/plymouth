@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=fallout
+Description=fallout splash animation
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/fallout
+ScriptFile=/usr/share/plymouth/themes/fallout/animated-boot.script
